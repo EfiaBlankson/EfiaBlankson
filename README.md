@@ -1,6 +1,6 @@
 Hey I'm Sarah, a professional Business Analyst
-I just completed a sprint on Tableau and have already completed advanced spreadsheets, SQL, Business analytics, Data visualization with tableau and storytelling with data
-- 🌱 I’m currently learning Business Intelligence Analysis at TripleTen Boothcamp
+I Just completed a Business Intelligence Analysis Program at TripleTen Boothcamp
+- 🌱 At TripleTen, i ws introduced to advanced spreadsheets, SQL, Business analytics, Data visualization  and storytelling with data using tableau, Power BI and Python
 - 👯 I’m looking to collaborate on business analysis projects
 - I wish to participate in outsourcing projects for Business analysts 
 - 💬 Ask me about ... Very open minded individual who focused on getting every job done to perfection
